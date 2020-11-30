@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "new test",
+      "description": "this one is just fo fun",
+      "userId": "107426314469256192658",
+      "id": 1
+    },
+    {
+      "title": "asdfsa",
+      "description": "sdfafa",
+      "userId": "107426314469256192658",
+      "id": 2
+    },
+    {
+      "title": "testing",
+      "description": "testers",
+      "userId": "107426314469256192658",
+      "id": 3
+    }
+  ]
+}
